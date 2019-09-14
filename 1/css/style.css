@@ -1,0 +1,22 @@
+/* this is my coment in css*/
+ul.navbar-nav{
+    width:225px;   margin:0px;  padding:10px;  font-size:20px;
+    height: 100%;
+    
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    align-items:center;
+}
+li.nav-item>a.nav-link{
+    color: black !important;
+    align-items: right;
+}
+a.nav-link:hover{
+    background-color: antiquewhite;
+}
+
+div.css{
+    width: 300px;
+}
